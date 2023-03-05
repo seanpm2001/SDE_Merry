@@ -43,7 +43,7 @@
 # Pony Source file
 *.pony linguist-detectable=true
 *.pony linguist-documentation=false
-*.pony linguist-language=C
+*.pony linguist-language=Pony
 # Python Source file
 *.py linguist-detectable=true
 *.py linguist-documentation=false
@@ -192,7 +192,7 @@
 # File info
 
 # File type: gitattributes file (*.gitattributes)
-# File version: 5 (2023, Sunday, March 5h at 2:23 pm PST)
+# File version: 6 (2023, Sunday, March 5th at 2:26 pm PST)
 # Line count (including blank lines and compiler line): 199
 
 # End of script

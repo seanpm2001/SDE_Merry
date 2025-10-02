@@ -3,7 +3,7 @@
 //// FileName: SDE_Merry_REPOLIST.urll
 //// Note: SDE itself is not included into this count.
 //// A list of all SDE Merry project repositories by @seanpm2001
-//// As of 2025, Wednesday, September 17th
+//// As of 2025, Wednesday, October 1st
 
 //// SDE Merry Main (1)
 
@@ -12,6 +12,10 @@ https://github.com/seanpm2001/SDE_Merry
 //// SDE Merry Documentation Main (1)
 
 https://github.com/seanpm2001/SDE_Merry_Docs
+
+//// SDE Merry Website (1)
+
+https://github.com/seanpm2001/SDE_Merry_Website
 
 //// Carousels
 
@@ -66,8 +70,8 @@ https://github.com/seanpm2001/SDE_WebCarousel
 https://github.com/seanpm2001/SDE_WebCarousel_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (SDE Merry): 22
-//// 1+1+2+2+2+2+2+2+2+2+2+2=22
+//// Repo count (SDE Merry): 23
+//// 1+1+1+2+2+2+2+2+2+2+2+2+2=23
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -79,15 +83,15 @@ https://github.com/seanpm2001/SDE_WebCarousel_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 9
-//// 9+0=9
+//// Total repo count: 24
+//// 24+0=24
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 1 (2025, Wednesday, September 17th at 05:23 pm PST)
-//// Line count (including blank lines and compiler line): 94
+//// File version: 2 (2025, Wednesday, October 1st at 09:12 pm PST)
+//// Line count (including blank lines and compiler line): 98
 //// ----------------------------------------------------- \\\\
 
 //// End of file
